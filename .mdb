@@ -1,0 +1,10 @@
+{
+  "projectName": "cms",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "node8"
+  },
+  "hash": "eabc1adc"
+}
