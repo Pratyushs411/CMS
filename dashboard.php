@@ -2,13 +2,8 @@
 include('includes/config.php');
 include('includes/database.php');
 include('includes/functions.php');
-// if(isset($_SESSION['id'])){
-//   header('Location: dashboard.php');
-//   die();
-// }
 secure();
 include('includes/header.php');
-//var_dump($_SESSION);
 ?>
 <div class="container mt-5">
   <div class="row justify-content-center">
